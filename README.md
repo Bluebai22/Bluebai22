@@ -1,4 +1,4 @@
-### Hi there 👋
+# Lu(Blue) Bai
 
 <!--
 **Bluebai22/Bluebai22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m Interested in Business/Data analytics field, using data to provide value and to solve real world problem.
+### Hi, I am Lu(Blue)
+🌱 I’m Interested in **Business/Data analytics** field, using data to provide value and solve real world problem.
+
 👯 I’m looking for jobs like Data Analyst/ Business Analyst/ Business intelligence engineer
-🔭 Most Used lanuages: Python, R, SQL
-📫 How to reach me:lubai@brandeis.edu
+
+🔭 Most Used lanuages: **Python, R, SQL**
+
+📫 How to reach me: **lubai@brandeis.edu**
+
+If you have any questions or want to furthur talk about the projects or opportunities, please feel free to reach out to me!
+Your feedback will be more than appreciated!
