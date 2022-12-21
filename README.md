@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m Interested in Business/Data analytics field, using data to provide value and to solve real world problem.
+👯 I’m looking for jobs like Data Analyst/ Business Analyst/ Business intelligence engineer
+🔭 Most Used lanuages: Python, R, SQL
+📫 How to reach me:lubai@brandeis.edu
