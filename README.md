@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 👯 I’m looking for jobs like Data Analyst/ Business Analyst/ Business intelligence engineer
 
-🔭 Most Used lanuages: **Python, R, SQL**
+🔭 Most Used lanuages/software: **Python, R, SQL, Tableau**
 
 📫 How to reach me: **lubai@brandeis.edu**
 
